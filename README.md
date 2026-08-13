@@ -59,6 +59,15 @@ This reflects a broader shift in applied AI engineering: from ad-hoc prompting t
 - Building reusable, repeatable agentic workflow patterns
 - Applied, workplace-oriented AI adoption practices
 
+## Practical Examples
+
+This repository includes small, educational examples under [`examples/`](examples/) that complement the certificate by demonstrating practical application of agent-workflow and human-in-the-loop concepts covered in the course.
+
+- **[`examples/agent_workflow/`](examples/agent_workflow/)** — a single-agent workflow showing objective definition, context, constraints, execution, validation, and structured output.
+- **[`examples/human_in_the_loop/`](examples/human_in_the_loop/)** — a workflow that pauses for human approval before a sensitive action, using the Agents SDK's built-in approval mechanism.
+
+Both are educational/portfolio demonstrations built with the [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) — **not official OpenAI implementations.** Each example has its own README with setup instructions and expected output.
+
 ## Certificate Verification
 
 | | |
@@ -73,14 +82,22 @@ OpenAI Academy issues each eligible course-completion certificate with a unique 
 
 ## About This Repository
 
-This repository is intentionally lightweight, containing only the certificate asset and its supporting documentation. It has no build steps, dependencies, or code — it exists solely as a clean, citable record for professional and portfolio purposes.
+This repository is intentionally lightweight: the certificate and its documentation remain the primary content, complemented by a small set of self-contained, optional example scripts. There is no build step, and the examples add a single well-justified dependency (`openai-agents`) rather than a full application stack.
 
 ```
 openai-agents-and-workflows-certificate/
 ├── README.md
+├── NOTICE
+├── .gitignore
 ├── certificate/
 │   └── openai-agents-and-workflows.png
-└── .gitignore
+└── examples/
+    ├── agent_workflow/
+    │   ├── README.md
+    │   └── workflow.py
+    └── human_in_the_loop/
+        ├── README.md
+        └── workflow.py
 ```
 
 ## Author
