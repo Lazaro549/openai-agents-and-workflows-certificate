@@ -23,3 +23,6 @@ Desktop.ini
 
 # Environment files (precautionary)
 .env
+
+__pycache__/
+*.py[cod]
