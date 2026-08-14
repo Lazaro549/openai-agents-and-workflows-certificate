@@ -4,8 +4,7 @@
 ### Course Completion Certificate
 OpenAI Academy Agents and Workflows course completion certificate and professional credential record.
 
-![Certificate](certificate/openai-agents-and-workflows.png)
-
+![Certificate](https://img.shields.io/badge/Certificate-Completed-brightgreen?style=flat-square)
 [![Provider](https://img.shields.io/badge/Provider-OpenAI%20Academy-black?style=flat-square)](https://academy.openai.com/)
 [![Course](https://img.shields.io/badge/Course-Agents%20%26%20Workflows-blue?style=flat-square)](https://academy.openai.com/public/courses/agents-and-workflows-bieml)
 ![Issued](https://img.shields.io/badge/Issued-August%202026-lightgrey?style=flat-square)
@@ -100,16 +99,7 @@ openai-agents-and-workflows-certificate/
         ├── README.md
         └── workflow.py
 ```
-## Donations
 
-If you find this repository useful or would like to support my work in AI & Robotics development, you can contribute through the following local transfer aliases:
-
-- 🇦🇷 **ARS (Argentina)**  
-  Alias: `lazaro.503.alaba.mp`
-
-- 🌎 **USD (local transfers within Argentina only)**  
-  Alias: `ahogada.duras.foca`
-  
 ## Author
 
 **Lazaro Gomez Vitolo**
