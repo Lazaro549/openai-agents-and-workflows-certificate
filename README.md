@@ -99,7 +99,16 @@ openai-agents-and-workflows-certificate/
         ├── README.md
         └── workflow.py
 ```
+## Donations
 
+If you find this repository useful or would like to support my work in AI & Robotics development, you can contribute through the following local transfer aliases:
+
+- 🇦🇷 **ARS (Argentina)**  
+  Alias: `lazaro.503.alaba.mp`
+
+- 🌎 **USD (local transfers within Argentina only)**  
+  Alias: `ahogada.duras.foca`
+  
 ## Author
 
 **Lazaro Gomez Vitolo**
