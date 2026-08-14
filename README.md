@@ -4,7 +4,8 @@
 ### Course Completion Certificate
 OpenAI Academy Agents and Workflows course completion certificate and professional credential record.
 
-![Certificate](https://img.shields.io/badge/Certificate-Completed-brightgreen?style=flat-square)
+![Certificate](certificate/openai-agents-and-workflows.png)
+
 [![Provider](https://img.shields.io/badge/Provider-OpenAI%20Academy-black?style=flat-square)](https://academy.openai.com/)
 [![Course](https://img.shields.io/badge/Course-Agents%20%26%20Workflows-blue?style=flat-square)](https://academy.openai.com/public/courses/agents-and-workflows-bieml)
 ![Issued](https://img.shields.io/badge/Issued-August%202026-lightgrey?style=flat-square)
